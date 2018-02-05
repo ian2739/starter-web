@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ian Scott	butts@butts.butts	@butts
 
 # THANKS
 
